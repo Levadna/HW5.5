@@ -1,0 +1,8 @@
+<Solution>
+  <Project Path="../CW3.3/TcpP43.Common/TcpP43.Common.csproj" />
+  <Project Path="BroadcastP43.Recipient/BroadcastP43.Recipient.csproj" Id="1b54aa19-4247-4014-9586-c9612d6af265" />
+  <Project Path="BroadcastP43.Sender/BroadcastP43.Sender.csproj" Id="bf1f35f4-972f-41b8-92b8-7eafee67e6d8" />
+  <Project Path="Client/Client.csproj" />
+  <Project Path="HW5.5/HW5.5.csproj" />
+  <Project Path="Server/Server.csproj" />
+</Solution>
